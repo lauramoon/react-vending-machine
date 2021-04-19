@@ -1,10 +1,12 @@
-# Getting Started with Create React App
+# Vending Machine with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+It is a simple vending machine designed to practice using React Router.
+
 ## Available Scripts
 
-In the project directory, you can run:
+To use, clone this repo. In the project directory, you can run:
 
 ### `npm start`
 
