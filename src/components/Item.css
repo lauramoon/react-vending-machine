@@ -1,0 +1,17 @@
+.Item {
+    background-color: paleturquoise;
+    border: solid 10px blue;
+    width: 250px;
+    margin: 40px auto;
+    padding-bottom: 15px;
+    border-radius: 30px;
+}
+
+.Item a {
+    color: blue;
+    text-decoration: none;
+}
+
+.Item a:hover {
+    color: darkblue;
+}
